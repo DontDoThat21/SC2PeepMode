@@ -29,10 +29,6 @@ All the data to for creating a PeepMode map can be found here:
 	* `Published` current ladder maps published on arcade
 	* `Deprecated` old ladder maps no longer supported (but may still be on arcade)
 
-### Other Documentation (Possibly Obsolete)
-* [tutorial series](https://www.youtube.com/playlist?list=PLDzri0UohfhqrfjMbGMNBRW05lhK0H12u) of jcraigk.
-* [dropbox](https://www.dropbox.com/sh/e1dx04lwdewngjp/AADw2ajP6x9YxOVt51MpbRTHa?dl=0)
-
 ## Authors
 * **[jcraigk](https://github.com/jcraigk)** - discord: jck#0177 (original author, mostly retired)
 * **[Kelzorz](https://github.com/kelzorz)** - discord: Kelzorz#7338 (current developer)
