@@ -28,6 +28,7 @@ All the data to for creating a PeepMode map can be found here:
 * `src` contains the .SC2Map files for each map
 	* `Published` current ladder maps published on arcade
 	* `Deprecated` old ladder maps no longer supported (but may still be on arcade)
+	* `Season2025-WIP` work-in-progress directory for Season 2025 ladder maps
 
 ## Authors
 * **[jcraigk](https://github.com/jcraigk)** - discord: jck#0177 (original author, mostly retired)

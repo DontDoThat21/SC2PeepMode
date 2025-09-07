@@ -1,0 +1,37 @@
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+*.sublime-*
+.vscode/
+.idea/
+
+# Backup files
+*.backup
+*.orig
+
+# Log files
+*.log
+
+# SC2 Editor temporary files
+*.SC2Components
+*.SC2Locale
+TriggerLibs/
+Libraries/
+
+# But keep our documented directories and files
+!src/Season2025-WIP/README.md
+!src/Published/
+!src/Deprecated/
+!export/
+!reference/
